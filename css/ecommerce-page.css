@@ -231,7 +231,7 @@ i.fa-th-list {
   height: max-content;
   
 }
-
+/* did not change html */
 .product-price:before {
   content: "$ ";
 
