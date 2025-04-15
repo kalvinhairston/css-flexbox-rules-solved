@@ -127,3 +127,6 @@ label {
   font-weight: bold;
 }
 
+.form-group-vertical-control label {
+  font-weight: normal;
+}
